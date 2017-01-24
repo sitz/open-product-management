@@ -503,25 +503,25 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Facebook](https://www.quora.com/What-does-a-Product-Manager-at-Facebook-do) - Facebook PM Culture
 
  # Best Product Managers on Twitter
- - [ ] [Ken Norton](https://twitter.com/kennethn) - Partner @GVTeam. Formerly PM @Google.
- - [ ] [Josh Elman](https://twitter.com/joshelman) - Partner, @GreylockVC: @Medium, @Jelly, @AppMeerkat, @Operator, @discordapp @Nextdoor.
- - [ ] [Hunter Walk](https://twitter.com/hunterwalk) - @homebrew, Seed Stage Venture Fund w @satyap. Made products at YouTube, Google & SecondLife.
- - [ ] [Ian McAllister](https://twitter.com/ianmcall) - Director of Product at Airbnb. Former Amazon and founder of @AmazonSmile.
- - [ ] [Marty Cagan](https://twitter.com/cagan) - I'm a partner at Silicon Valley Product Group, specializing in product teams and product strategy
- - [ ] [Ellen Chisa](https://twitter.com/ellenchisa) - VP Product for http://lolatravel.com , temporary @harvardhbs dropout.
- - [ ] [Jackie Bavaro](https://twitter.com/jackiebo) - Asana Product Manager. Co-Author of Cracking the PM Interview. Previously @ Google & Microsoft
- - [ ] [Julie Zhuo](https://twitter.com/joulee) - Product design VP @ Facebook.
- - [ ] [Joel Spolsky](https://twitter.com/spolsky) - CEO of Stack Overflow, co-founder of Fog Creek Software (FogBugz, Kiln), and creator of Trello.
- - [ ] [Bruce McCarthy](https://twitter.com/d8a_driven) - Innovator, consultant, coach, and evangelist for better products and product development
- - [ ] [Des Traynor](https://twitter.com/destraynor) - Co-founder of @intercom.
- - [ ] [Sachin Rekhi](https://twitter.com/sachinrekhi) - Entrepreneur, Product Guy, and Software Engineer.  
- - [ ] [Adam Nash](https://twitter.com/adamnash) - CEO @Wealthfront
- - [ ] [Rich Mironov](https://twitter.com/RichMironov) - Tech start-up veteran, product exec/coach/mentor, writer (Art of Product Management)
- - [ ] [Eric Ries](https://twitter.com/ericries) - Trying to change how startups are built.
- - [ ] [Steven Sinofsky](https://twitter.com/stevesi) - Board Partner @a16z • Adviser @BoxHQ • Writings @ Learning by Shipping
- - [ ] [Janna Bastow](https://twitter.com/simplybastow) - Co-Founder of MTP/CEO at ProdPad/CoFounder ProductTank and ProductCamp London
- - [ ] [Martin Eriksson](https://twitter.com/bfgmartin) - Co-Founder at MTP/ProductTank
- - [ ] [Simon Cast](https://twitter.com/simoncast) - Co Founder MTP/ProductTank/ProdPad
+ - [x] [Ken Norton](https://twitter.com/kennethn) - Partner @GVTeam. Formerly PM @Google.
+ - [x] [Josh Elman](https://twitter.com/joshelman) - Partner, @GreylockVC: @Medium, @Jelly, @AppMeerkat, @Operator, @discordapp @Nextdoor.
+ - [x] [Hunter Walk](https://twitter.com/hunterwalk) - @homebrew, Seed Stage Venture Fund w @satyap. Made products at YouTube, Google & SecondLife.
+ - [x] [Ian McAllister](https://twitter.com/ianmcall) - Director of Product at Airbnb. Former Amazon and founder of @AmazonSmile.
+ - [x] [Marty Cagan](https://twitter.com/cagan) - I'm a partner at Silicon Valley Product Group, specializing in product teams and product strategy
+ - [x] [Ellen Chisa](https://twitter.com/ellenchisa) - VP Product for http://lolatravel.com , temporary @harvardhbs dropout.
+ - [x] [Jackie Bavaro](https://twitter.com/jackiebo) - Asana Product Manager. Co-Author of Cracking the PM Interview. Previously @ Google & Microsoft
+ - [x] [Julie Zhuo](https://twitter.com/joulee) - Product design VP @ Facebook.
+ - [x] [Joel Spolsky](https://twitter.com/spolsky) - CEO of Stack Overflow, co-founder of Fog Creek Software (FogBugz, Kiln), and creator of Trello.
+ - [x] [Bruce McCarthy](https://twitter.com/d8a_driven) - Innovator, consultant, coach, and evangelist for better products and product development
+ - [x] [Des Traynor](https://twitter.com/destraynor) - Co-founder of @intercom.
+ - [x] [Sachin Rekhi](https://twitter.com/sachinrekhi) - Entrepreneur, Product Guy, and Software Engineer.  
+ - [x] [Adam Nash](https://twitter.com/adamnash) - CEO @Wealthfront
+ - [x] [Rich Mironov](https://twitter.com/RichMironov) - Tech start-up veteran, product exec/coach/mentor, writer (Art of Product Management)
+ - [x] [Eric Ries](https://twitter.com/ericries) - Trying to change how startups are built.
+ - [x] [Steven Sinofsky](https://twitter.com/stevesi) - Board Partner @a16z • Adviser @BoxHQ • Writings @ Learning by Shipping
+ - [x] [Janna Bastow](https://twitter.com/simplybastow) - Co-Founder of MTP/CEO at ProdPad/CoFounder ProductTank and ProductCamp London
+ - [x] [Martin Eriksson](https://twitter.com/bfgmartin) - Co-Founder at MTP/ProductTank
+ - [x] [Simon Cast](https://twitter.com/simoncast) - Co Founder MTP/ProductTank/ProdPad
 
  # Special Thanks
  - Special Thanks to [Paul Cothenet](http://attackwithnumbers.com) for providing the Base of Core 1: Product Management
