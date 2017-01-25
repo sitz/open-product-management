@@ -470,14 +470,14 @@ wireframes, mockups, diagrams and prototypes.
  # Core 4: Get the Job
 
  ### Hiring a Product Manager Tips/Tricks
- - [ ] [Inspire Me with your Job Description](https://medium.com/@mstephan/inspire-with-your-job-description-ecb5ce744cfc#.gjzd3n4ez) - Writing a job description that attracts inspired product managers from Mark Stephan
+ - [x] [Inspire Me with your Job Description](https://medium.com/@mstephan/inspire-with-your-job-description-ecb5ce744cfc#.gjzd3n4ez) - Writing a job description that attracts inspired product managers from Mark Stephan
 
  ### Career Prep:Resume
- - [ ] [How do you write a good resume for product manager jobs?](https://www.quora.com/How-do-you-write-a-good-resume-for-product-manager-jobs) - Sample Advice on Quora
- - [ ] [Mike Bracco - Sample PM Resume](http://mikebracco.com/resume/) - Sample Resume Website from a PM
- - [ ] [Adam Mathes - Sample PM Resume](http://www.adammathes.com/resume/) - Sample Resume Website from a PM
- - [ ] [How to get that Next PM Job](http://svpma.org/eventarchives/SVPMA-03-2010-How_to_Get_That_Next_PM_Job-Shreyas_Doshi.pdf) - 200 slides from Google PM
- - [ ] [Nicholas Ivanecky - Sample PM Website](http://www.ivantron.com) - Nicholas Ivanecky Resume Website
+ - [x] [How do you write a good resume for product manager jobs?](https://www.quora.com/How-do-you-write-a-good-resume-for-product-manager-jobs) - Sample Advice on Quora
+ - [x] [Mike Bracco - Sample PM Resume](http://mikebracco.com/resume/) - Sample Resume Website from a PM
+ - [x] [Adam Mathes - Sample PM Resume](http://www.adammathes.com/resume/) - Sample Resume Website from a PM
+ - [x] [How to get that Next PM Job](http://svpma.org/eventarchives/SVPMA-03-2010-How_to_Get_That_Next_PM_Job-Shreyas_Doshi.pdf) - 200 slides from Google PM
+ - [x] [Nicholas Ivanecky - Sample PM Website](http://www.ivantron.com) - Nicholas Ivanecky Resume Website
  
   ### Career Prep:Where to Apply
   - [ ] [ProductHired.com](http://www.producthired.com) - Simplify your Product Manager Job Search
