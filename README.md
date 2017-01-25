@@ -185,23 +185,23 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
  - [x] [Take back your day: Time Management for PMs](https://pmblog.quora.com/Take-back-your-day-Time-Management-for-PMs) - Jackie Bavaro
 
  ### Become the Best in the Field
- - [ ] [Top hacks from a PM behind two of tech’s hottest products](http://firstround.com/article/Top-Hacks-from-a-PM-Behind-Two-of-Techs-Hottest-Products) - Todd Jackson
- - [ ] [Stakeholder Management](http://www.svproduct.com/stakeholder-management/) - Marty Cagan
- - [ ] [Court scribe or Hand of the King](http://www.productpowers.com/blog/court-scribe-or-hand-of-the-king.html) - Bruce McCarthy
- - [ ] [Influence without authority](http://www.sachinrekhi.com/blog/2013/02/19/the-most-underrated-product-management-skill-influence-without-authority) - Sachin Rekhi
- - [ ] [Management clichés that work](http://blog.learningbyshipping.com/2014/10/23/management-cliches-that-work/) - Steven Sinofsky
- - [ ] [How to be persuasive](https://pmblog.quora.com/How-to-be-persuasive) - Jackie Bavaro
- - [ ] [Bad Managers Talk, Good Managers Write](http://blog.idonethis.com/managers-write/) - Walter Chen
- - [ ] [Good Product Manager, Bad Product Manager](http://benhorowitz.files.wordpress.com/2010/05/good-product-manager.pdf) - Ben Horowitz
- - [ ] [Be a great product leader](http://blog.adamnash.com/2011/12/16/be-a-great-product-leader/) - Adam Nash
- - [ ] [Top 10 product leadership lessons](http://blog.adamnash.com/2012/03/06/top-10-product-leadership-lessons/) - Adam Nash
- - [ ] [What distinguishes the top 1% of Product Managers from the top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-Product-Managers-from-the-Top-10/answer/Ian-McAllister?srid=3wR&st=ns) - Ian McAllister
- - [ ] [What makes someone a great Product Manager at Google?](https://www.quora.com/What-makes-someone-a-great-product-manager-at-Google?) - Edward Ho
- - [ ] [What innate traits do great internet product leaders share?](https://www.quora.com/What-innate-traits-do-great-Internet-product-leaders-share) - Chris Wetherell
- - [ ] [Musings on Product Management](http://blog.parsely.com/post/907/musings-on-product-management/) - Mike Sukmanowsky
- - [ ] [Hiring a great product leader](https://medium.com/@suthakamal/hiring-a-great-product-leader-12365570c974) - Sutha Kamal
- - [ ] [What makes a great Product Manager?](http://hatchery.vc/what-makes-a-great-product-manager/) - Erik Torenberg
- - [ ] [How a football coach taught me to product manage like a boss](https://medium.com/@biggiesu/how-a-football-coach-taught-me-to-product-manage-like-a-boss-926ab5c39156) - Mike Su
+ - [x] [Top hacks from a PM behind two of tech’s hottest products](http://firstround.com/article/Top-Hacks-from-a-PM-Behind-Two-of-Techs-Hottest-Products) - Todd Jackson
+ - [x] [Stakeholder Management](http://www.svproduct.com/stakeholder-management/) - Marty Cagan
+ - [x] [Court scribe or Hand of the King](http://www.productpowers.com/blog/court-scribe-or-hand-of-the-king.html) - Bruce McCarthy
+ - [x] [Influence without authority](http://www.sachinrekhi.com/blog/2013/02/19/the-most-underrated-product-management-skill-influence-without-authority) - Sachin Rekhi
+ - [x] [Management clichés that work](http://blog.learningbyshipping.com/2014/10/23/management-cliches-that-work/) - Steven Sinofsky
+ - [x] [How to be persuasive](https://pmblog.quora.com/How-to-be-persuasive) - Jackie Bavaro
+ - [x] [Bad Managers Talk, Good Managers Write](http://blog.idonethis.com/managers-write/) - Walter Chen
+ - [x] [Good Product Manager, Bad Product Manager](http://benhorowitz.files.wordpress.com/2010/05/good-product-manager.pdf) - Ben Horowitz
+ - [x] [Be a great product leader](http://blog.adamnash.com/2011/12/16/be-a-great-product-leader/) - Adam Nash
+ - [x] [Top 10 product leadership lessons](http://blog.adamnash.com/2012/03/06/top-10-product-leadership-lessons/) - Adam Nash
+ - [x] [What distinguishes the top 1% of Product Managers from the top 10%?](https://www.quora.com/What-distinguishes-the-Top-1-of-Product-Managers-from-the-Top-10/answer/Ian-McAllister?srid=3wR&st=ns) - Ian McAllister
+ - [x] [What makes someone a great Product Manager at Google?](https://www.quora.com/What-makes-someone-a-great-product-manager-at-Google?) - Edward Ho
+ - [x] [What innate traits do great internet product leaders share?](https://www.quora.com/What-innate-traits-do-great-Internet-product-leaders-share) - Chris Wetherell
+ - [x] [Musings on Product Management](http://blog.parsely.com/post/907/musings-on-product-management/) - Mike Sukmanowsky
+ - [x] [Hiring a great product leader](https://medium.com/@suthakamal/hiring-a-great-product-leader-12365570c974) - Sutha Kamal
+ - [x] [What makes a great Product Manager?](http://hatchery.vc/what-makes-a-great-product-manager/) - Erik Torenberg
+ - [x] [How a football coach taught me to product manage like a boss](https://medium.com/@biggiesu/how-a-football-coach-taught-me-to-product-manage-like-a-boss-926ab5c39156) - Mike Su
 
  # Core 2: Resources
 
