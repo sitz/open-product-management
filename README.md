@@ -294,18 +294,18 @@ wireframes, mockups, diagrams and prototypes.
  ### Books
  #####Design
  - [ ] [Inspired - How to Create Products Customers Love](http://www.amazon.com/gp/product/B001AQ95UY?btkr=1) - Marty Cagan  
- - [ ] [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) - Donald Norman
+ - [x] [The Design of Everyday Things](https://en.wikipedia.org/wiki/The_Design_of_Everyday_Things) - Donald Norman
  - [ ] [Don't Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) - Steve Krug
 
  #####Startups
  - [ ] [The 4 steps to the Epiphany](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) - Steve Blank
  - [ ] [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers](http://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417) - A handbook for designing tomorrow’s enterprises
  - [ ] [Beginning Customer Development](https://app.convertkit.com/kevindewalt/beginning-customer-development_ebook) - Kevin Dewalt
- - [ ] [The Innovator’s Dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) - Clayton Christensen
+ - [x] [The Innovator’s Dilemma](https://en.wikipedia.org/wiki/The_Innovator%27s_Dilemma) - Clayton Christensen
  - [ ] [The Innovator's Solution: Creating and Sustaining Successful Growth](https://www.amazon.com/Innovators-Solution-Creating-Sustaining-Successful/dp/1578518520) - Clayton Christensen
  - [ ] [The Innovator's DNA: Mastering the Five Skills of Disruptive Innovators](https://www.amazon.com/Innovators-DNA-Mastering-Skills-Disruptive/dp/1422134814/ref=asap_bc?ie=UTF8) - Clayton Christensen
  - [ ] [It’s Your Ship: Management Techniques from the Best Damn Ship in the Navy​](http://www.amazon.com/Its-Your-Ship-Management-Techniques/dp/145552302X) - Michael Abrashoff
- - [ ] [The Hard Thing About Hard Things](http://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/) - Ben Horowitz
+ - [x] [The Hard Thing About Hard Things](http://www.amazon.com/Hard-Thing-About-Things-Building/dp/0062273205/) - Ben Horowitz
  - [ ] [Traction](http://www.amazon.com/Traction-Startup-Achieve-Explosive-Customer-ebook/dp/B00TY3ZOMS) - Gabriel Weinberg
  - [ ] [The Lean Product Playbook](http://www.amazon.com/The-Lean-Product-Playbook-Innovate/dp/1118960874) - Dan Olsen
  - [ ] [Hooked: How to build habit forming products](http://www.amazon.com/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00HJ4A43S) - Nir Eyal
@@ -335,7 +335,7 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [What Every BODY Is Saying​](http://www.amazon.com/What-Every-BODY-Saying-Speed-Reading/dp/0061438294/) - Joe Navarro
  - [ ] [The Death and Life of Great American Cities](http://www.amazon.com/Death-Life-Great-American-Cities/dp/067974195X) - Jane Jacobs
  - [ ] [Predictably Irrational](http://www.amazon.com/Predictably-Irrational-Revised-Expanded-Decisions/dp/0061353248) - Dan Ariely
- - [ ] [Freakonomics](http://www.amazon.com/Freakonomics-Economist-Explores-Hidden-Everything/dp/0060731338/ref=sr_1_1?s=books&ie=UTF8&qid=1451455126&sr=1-1&keywords=freakonomics) - Steven Levitt and Stephen J. Dubner
+ - [x] [Freakonomics](http://www.amazon.com/Freakonomics-Economist-Explores-Hidden-Everything/dp/0060731338/ref=sr_1_1?s=books&ie=UTF8&qid=1451455126&sr=1-1&keywords=freakonomics) - Steven Levitt and Stephen J. Dubner
  - [ ] [Getting Past NO](https://en.wikipedia.org/wiki/Getting_Past_No) - William Ury
  - [ ] [The 7 Habits of Highly Effective People](http://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1451639619) - Stephen R. Covey
  - [ ] [Switch: How to Change Things When Change is Hard​](http://www.amazon.com/Switch-Change-Things-When-Hard/dp/0385528752) - Chip and Dan Heath
@@ -343,7 +343,7 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) - Daniel Kahneman
  - [ ] [Managing Humans](http://www.amazon.com/gp/product/1430243147/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1430243147&linkCode=as2&tag=httpstwit071f-20) - Former Manager at Apple
  - [ ] [The Everything Store: Jeff Bezos and the Age of Amazon](http://www.amazon.com/gp/product/0316219266/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0316219266&linkCode=as2&tag=httpstwit071f-20) - Brad Stone
- - [ ] [The Tipping Point: How Little Things Can Make a Big Difference](http://www.amazon.com/The-Tipping-Point-Little-Difference-ebook/dp/B000OT8GD0) - Malcolm Gladwell
+ - [x] [The Tipping Point: How Little Things Can Make a Big Difference](http://www.amazon.com/The-Tipping-Point-Little-Difference-ebook/dp/B000OT8GD0) - Malcolm Gladwell
  
  ### Newsletters
  - [ ] [Pivot Product Hits](https://pivotservices.curated.co/) - A weekly email newsletter of the best Product Management content 
