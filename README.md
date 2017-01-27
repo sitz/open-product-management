@@ -387,16 +387,16 @@ wireframes, mockups, diagrams and prototypes.
 
  # Core 3: Real Life Product Management
  ### Interviews
- - [ ] [Janna Bastow on "How to Get into Product Management"](https://www.youtube.com/watch?v=p9Ubfv5v2i8) - A conversation between Janna Bastow, founder of ProdPad and previously a product manager / consultant
- - [ ] [Eva Andreasson on "How to Get into Product Management"](https://www.youtube.com/watch?v=tIQLhdMrK2Y) - A conversation between Eva Andreasson, Senior Product Manager at Cloudera, and Jason Shah, Product Manager at Yammer
+ - [x] [Janna Bastow on "How to Get into Product Management"](https://www.youtube.com/watch?v=p9Ubfv5v2i8) - A conversation between Janna Bastow, founder of ProdPad and previously a product manager / consultant
+ - [x] [Eva Andreasson on "How to Get into Product Management"](https://www.youtube.com/watch?v=tIQLhdMrK2Y) - A conversation between Eva Andreasson, Senior Product Manager at Cloudera, and Jason Shah, Product Manager at Yammer
  - [ ] [Teresa Torres on "How to Get into Product Management"](https://www.youtube.com/watch?v=VuSfqm1dr7Y) - A conversation between Teresa Torres, Vice President, Products at AfterCollege and a product consultant
- - [ ] [Wil Keenan on "How to Get Into Product Management"](https://www.youtube.com/watch?v=-CMip6mUT5I) - A conversation between Wil Keenan, Senior Product Manager at Change.org and Jason Shah
- - [ ] [Chris Lee on "How to Get into Product Management"](https://www.youtube.com/watch?v=EoncOT67ImI) - A conversation between Chris Lee, Product Manager at Dropbox, and Jason Shah
- - [ ] [Raj Ramachandran on "How to Get into Product Management"](https://www.youtube.com/watch?v=fqJo_UkMMxM) - A conversation between Raj Ramachandran, Director of Product at Kidaptive and former Product Manager at Zynga
- - [ ] [Pascal Carole on "How to Get into Product Management"](https://www.youtube.com/watch?v=g48swcdEqFE) - A conversation between Pascal Carole, Product Manager at Microsoft / Yammer and former engineer at Microsoft, and Jason Shah
- - [ ] [Jackie Bavaro on "How to Get into Product Management"](https://www.youtube.com/watch?v=tSx8V8Y5LW8) - A conversation between Jackie Bavaro, Product Manager at Asana, and Jason Shah
- - [ ] [Jason Evanish on "How to Get into Product Management"](https://www.youtube.com/watch?v=9pqBBEkSfdU) - A conversation between Jason Evanish, Product Manager at KISSMetrics, and Jason Shah
- - [ ] [Ryan Hoover on "How to Get Into Product Management"](https://www.youtube.com/watch?v=gIJNfQZCY0s) - A conversation between Ryan Hoover, Director of Product, PlayHaven and Jason Shah
+ - [x] [Wil Keenan on "How to Get Into Product Management"](https://www.youtube.com/watch?v=-CMip6mUT5I) - A conversation between Wil Keenan, Senior Product Manager at Change.org and Jason Shah
+ - [x] [Chris Lee on "How to Get into Product Management"](https://www.youtube.com/watch?v=EoncOT67ImI) - A conversation between Chris Lee, Product Manager at Dropbox, and Jason Shah
+ - [x] [Raj Ramachandran on "How to Get into Product Management"](https://www.youtube.com/watch?v=fqJo_UkMMxM) - A conversation between Raj Ramachandran, Director of Product at Kidaptive and former Product Manager at Zynga
+ - [x] [Pascal Carole on "How to Get into Product Management"](https://www.youtube.com/watch?v=g48swcdEqFE) - A conversation between Pascal Carole, Product Manager at Microsoft / Yammer and former engineer at Microsoft, and Jason Shah
+ - [x] [Jackie Bavaro on "How to Get into Product Management"](https://www.youtube.com/watch?v=tSx8V8Y5LW8) - A conversation between Jackie Bavaro, Product Manager at Asana, and Jason Shah
+ - [x] [Jason Evanish on "How to Get into Product Management"](https://www.youtube.com/watch?v=9pqBBEkSfdU) - A conversation between Jason Evanish, Product Manager at KISSMetrics, and Jason Shah
+ - [x] [Ryan Hoover on "How to Get Into Product Management"](https://www.youtube.com/watch?v=gIJNfQZCY0s) - A conversation between Ryan Hoover, Director of Product, PlayHaven and Jason Shah
 
  ### Product Case Studies
  - [ ] [Building an Enterprise Product: Yammer's Development Methodology](https://www.youtube.com/watch?v=N8wdRZDv0ks) - Jason Shah, product manager at Yammer, shares aspects of Yammer's product development methodology.
