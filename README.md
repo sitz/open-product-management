@@ -389,7 +389,7 @@ wireframes, mockups, diagrams and prototypes.
  ### Interviews
  - [x] [Janna Bastow on "How to Get into Product Management"](https://www.youtube.com/watch?v=p9Ubfv5v2i8) - A conversation between Janna Bastow, founder of ProdPad and previously a product manager / consultant
  - [x] [Eva Andreasson on "How to Get into Product Management"](https://www.youtube.com/watch?v=tIQLhdMrK2Y) - A conversation between Eva Andreasson, Senior Product Manager at Cloudera, and Jason Shah, Product Manager at Yammer
- - [ ] [Teresa Torres on "How to Get into Product Management"](https://www.youtube.com/watch?v=VuSfqm1dr7Y) - A conversation between Teresa Torres, Vice President, Products at AfterCollege and a product consultant
+ - [x] [Teresa Torres on "How to Get into Product Management"](https://www.youtube.com/watch?v=VuSfqm1dr7Y) - A conversation between Teresa Torres, Vice President, Products at AfterCollege and a product consultant
  - [x] [Wil Keenan on "How to Get Into Product Management"](https://www.youtube.com/watch?v=-CMip6mUT5I) - A conversation between Wil Keenan, Senior Product Manager at Change.org and Jason Shah
  - [x] [Chris Lee on "How to Get into Product Management"](https://www.youtube.com/watch?v=EoncOT67ImI) - A conversation between Chris Lee, Product Manager at Dropbox, and Jason Shah
  - [x] [Raj Ramachandran on "How to Get into Product Management"](https://www.youtube.com/watch?v=fqJo_UkMMxM) - A conversation between Raj Ramachandran, Director of Product at Kidaptive and former Product Manager at Zynga
