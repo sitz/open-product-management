@@ -376,12 +376,12 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Idea To Revenue Masterclass](http://productmanageracademy.teachable.com/courses/ideatorevenuemasterclass) - Become a Strategic Product Leader: Validate Ideas, Launch Great Products, Deliver Business Results.
 
  ### Blogs
- - [ ] [The Cranky Product Manager](http://crankypm.com/) - A blog on product management, product marketing, and the ugly side of software product development. As of April 2015, the author, Sue Raisty, no longer writes, but she has a large backlog of great posts.
- - [ ] [Street Smart Product Manager](http://streetsmartproductmanager.com/) - Thriving in the urban jungle of product.
- - [ ] [Product Talk](http://www.producttalk.org/) - Make better product decisions.
- - [ ] [Silicon Valley Product Group](http://svpg.com/articles/) - Shares lessons learned and knowledge of product management.
- - [ ] [The Clever PM](http://thecleverpm.com/) - Tips, tricks, and hacks that help you to be a better, more clever, Product Manager.
- - [ ] [Mind the Product](http://www.mindtheproduct.com/) - Product Management Blog and events.
+ - [x] [The Cranky Product Manager](http://crankypm.com/) - A blog on product management, product marketing, and the ugly side of software product development. As of April 2015, the author, Sue Raisty, no longer writes, but she has a large backlog of great posts.
+ - [x] [Street Smart Product Manager](http://streetsmartproductmanager.com/) - Thriving in the urban jungle of product.
+ - [x] [Product Talk](http://www.producttalk.org/) - Make better product decisions.
+ - [x] [Silicon Valley Product Group](http://svpg.com/articles/) - Shares lessons learned and knowledge of product management.
+ - [x] [The Clever PM](http://thecleverpm.com/) - Tips, tricks, and hacks that help you to be a better, more clever, Product Manager.
+ - [x] [Mind the Product](http://www.mindtheproduct.com/) - Product Management Blog and events.
 
 
 
@@ -427,11 +427,11 @@ wireframes, mockups, diagrams and prototypes.
  ### Communities to Join
 
  #### Groups
- - [ ] [Mind the Product](http://www.mindtheproduct.com) - Mind the Product Community Website and Blog
- - [ ] [Product School](http://www.productschool.com) - Product School Company Website
- - [ ] [Designer Chat](https://www.producthunt.com/r/85601ad255/3697) - The Designer News community in a private Slack chat.
- - [ ] [Product Manager HQ](https://www.productmanagerhq.com/join-the-community/) - Product Manager HQ - Slack group
- - [ ] [Product Camp](http://www.productcamp.org) - Product Camp Community Website and Blog
+ - [x] [Mind the Product](http://www.mindtheproduct.com) - Mind the Product Community Website and Blog
+ - [x] [Product School](http://www.productschool.com) - Product School Company Website
+ - [x] [Designer Chat](https://www.producthunt.com/r/85601ad255/3697) - The Designer News community in a private Slack chat.
+ - [x] [Product Manager HQ](https://www.productmanagerhq.com/join-the-community/) - Product Manager HQ - Slack group
+ - [x] [Product Camp](http://www.productcamp.org) - Product Camp Community Website and Blog
 
 
  #### Meetups
@@ -490,9 +490,9 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [4 Questions I Always Ask When Interviewing Product Managers](http://www.producttalk.org/2012/06/4-questions-i-always-ask-when-interviewing-product-managers/) - 4 Questions to ask a PM
  - [ ] [Product School](http://www.productschool.com) - Product School 2-month Education
  - [ ] [Interview Question Prep for PM Interviews](https://docs.google.com/document/d/1ZXwg8LFLEi-HmN9BoCoifqEM1NggxNjex4Tx-5ALa9I/edit) - Prep Questions from Rafi Lurie, APM at Uber.
- - [ ] [How To Get A PM Job With The Yammer Mafia - In-person](https://medium.com/product-man/how-to-get-a-pm-job-with-the-yammer-mafia-ec2c43c775fb#.viuymdset) - How to Join The Yammer PM Mafia
- - [ ] [The Best Student Activity for Product Managers By Jackie Bavaro](https://pmblog.quora.com/The-Best-Student-Activity-for-Product-Managers) - The Best Student Activity for Product Managers
- - [ ] [Acing the Product Management Interview](https://www.linkedin.com/pulse/20141020034027-1533734-acing-the-product-management-interview?trk=hp-feed-article-title-like) - Allan Hui
+ - [x] [How To Get A PM Job With The Yammer Mafia - In-person](https://medium.com/product-man/how-to-get-a-pm-job-with-the-yammer-mafia-ec2c43c775fb#.viuymdset) - How to Join The Yammer PM Mafia
+ - [x] [The Best Student Activity for Product Managers By Jackie Bavaro](https://pmblog.quora.com/The-Best-Student-Activity-for-Product-Managers) - The Best Student Activity for Product Managers
+ - [x] [Acing the Product Management Interview](https://www.linkedin.com/pulse/20141020034027-1533734-acing-the-product-management-interview?trk=hp-feed-article-title-like) - Allan Hui
 
  ### Career Prep:Company Types
  - [x] [Google by Larry page and Sergey Brin](http://www.google.com/about/company/philosophy/) - Google's culture
