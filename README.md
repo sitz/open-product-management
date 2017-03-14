@@ -17,7 +17,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - Go through our - [ ]Content Menu- [ ]
 
 ### Content
-- [Core 1: Product Management](#product-management)
+- [Core 1: Product Management](#core-1-product-management)
     - [What is Product Management](#what-is-product-management)
     - [Is it really for you?](#is-it-really-for-you)
     - [Becoming a Product Guru](#becoming-a-product-guru)
@@ -32,7 +32,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     - [Shipping and Measuring Products](#shipping-and-measuring-products)
     - [Organizing your Team](#organizing-your-team)
     - [Become the Best in the Field](#become-the-best-in-the-field)
-- [Core 2: Resources](#resources)
+- [Core 2: Resources](#core-2-resources)
     - [Design](#design)
     - [Development](#development)
     - [Marketing and Mockups](#marketing-and-mockups)
@@ -43,7 +43,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     - [Podcasts](#podcasts)
     - [Online Courses](#online-courses)
     - [Online Blogs](#blogs)
-- [Core 3: Real Life Product Management](#real-life-product-management)
+- [Core 3: Real Life Product Management](#core-3-real-life-product-management)
     - [Interviews](#interviews)
     - [Product Case Studies](#product-case-studies)
     - [Sample Product Documentation](#sample-product-documentation)
@@ -51,7 +51,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
             - [Groups](#groups)
             - [Meetups](#meetups)
             - [Conferences](#conferences)
-- [Core 4: Get the Job](#get-the-job)
+- [Core 4: Get the Job](#core-4-get-the-job)
     - [Career Prep Resume](#career-prep-resume)
     - [Career Prep The Interview](#career-prep-the-interview)
     - [Career Prep Where to Apply](#career-prep-where-to-apply)
@@ -156,6 +156,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
  ### User Experience
  - [x] [Lean UX Canvas](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.et3az0712) - Mark Stephan
+ - [ ] [User Experience Debt](https://blog.polkadotlabs.com/user-experience-debt-c9bd265d521b#.v3v86d9p7) - Vijay Sundaram
 
  ### How to work with Designers
  - [x] [How to work with designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146) - Julie Zhuo
@@ -276,6 +277,8 @@ wireframes, mockups, diagrams and prototypes.
  - [ ] [Producteev](https://github.com/intuit/AnimationEngine) - Task Management Software for Teams.
  - [ ] [Box Notes](https://www.producthunt.com/r/149596ab47/7806) - Create documents, take notes and share ideas in real-time.
  - [ ] [RealtimeBoard 2.0](https://www.producthunt.com/r/fe3c891017147c/40260) - Web-based whiteboarding & team collaboration tool
+ - [ ] [Smartsheet](https://www.producthunt.com/posts/smartsheet) - Microsoft Project alternative, best used for scheduling and resource management
+ - [ ] [Zenkit](https://www.producthunt.com/posts/zenkit) - Better Trello, with Mindmaps
 
  ### Analytics
  - [ ] [Piwik](https://piwik.org/) - Piwik is the leading open-source analytics platform that gives you more than just powerful analytics.
@@ -480,11 +483,11 @@ wireframes, mockups, diagrams and prototypes.
  - [x] [How to get that Next PM Job](http://svpma.org/eventarchives/SVPMA-03-2010-How_to_Get_That_Next_PM_Job-Shreyas_Doshi.pdf) - 200 slides from Google PM
  - [x] [Nicholas Ivanecky - Sample PM Website](http://www.ivantron.com) - Nicholas Ivanecky Resume Website
  
-  ### Career Prep:Where to Apply
+  ### Career Prep: Where to Apply
   - [ ] [ProductHired.com](http://www.producthired.com) - Simplify your Product Manager Job Search
   
 
- ### Career Prep:The Interview
+ ### Career Prep: The Interview
  - [ ] [Cracking the PM Interview ](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - Book based on getting a PM career
  - [ ] [The Ultimate Guide to Product Manager Interview Questions](http://www.venturegrit.com/how-to-interview-a-product-manager-the-ultimate-guide/) - PM Questions to Practice
  - [ ] [The PM Interview](http://thepminterview.com) - Set of Questions + Timer to practice your PM skills.
