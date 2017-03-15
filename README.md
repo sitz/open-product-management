@@ -156,7 +156,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 
  ### User Experience
  - [x] [Lean UX Canvas](https://medium.com/@mstephan/lean-ux-canvas-5f1fdd378077#.et3az0712) - Mark Stephan
- - [ ] [User Experience Debt](https://blog.polkadotlabs.com/user-experience-debt-c9bd265d521b#.v3v86d9p7) - Vijay Sundaram
+ - [x] [User Experience Debt](https://blog.polkadotlabs.com/user-experience-debt-c9bd265d521b#.v3v86d9p7) - Vijay Sundaram
 
  ### How to work with Designers
  - [x] [How to work with designers](https://medium.com/the-year-of-the-looking-glass/how-to-work-with-designers-6c975dede146) - Julie Zhuo
@@ -405,13 +405,13 @@ wireframes, mockups, diagrams and prototypes.
 
  ### Product Case Studies
  - [ ] [Building an Enterprise Product: Yammer's Development Methodology](https://www.youtube.com/watch?v=N8wdRZDv0ks) - Jason Shah, product manager at Yammer, shares aspects of Yammer's product development methodology.
- - [ ] [Product Hunt’s Rise - Case Study](https://medium.com/@theunixbeard/product-hunt-s-rise-d49249a1a2c0#.bpns2qcg3) - Product Hunt’s Rise
- - [ ] [Facebook Case Study](http://www.slideshare.net/misteroo/facebook-analysis-and-study/17-Facebook_is_offering_new_advertisingproducts) - Facebook Analysis and Study
- - [ ] [Twitter Case Study](http://www.thetwittercasestudy.com/the-case-study.html) - The Twitter Case Study from the Dimensions of Strategy Series
- - [ ] [Early Google Case Study](http://www.slideshare.net/ashwin_sharma/google-case-study) - Google Case Study
- - [ ] [Amazon Case Study](http://www.ecommerce-digest.com/amazon-case-study.html) - Amazon Case Study
- - [ ] [Apple iPod Case Study](http://www.ecommerce-digest.com/apple-ipod-case-study.html) - Apple Case Study
- - [ ] [Netflix Case Study](http://www.ecommerce-digest.com/netflix-case-study.html) - Netflix Case Study
+ - [x] [Product Hunt’s Rise - Case Study](https://medium.com/@theunixbeard/product-hunt-s-rise-d49249a1a2c0#.bpns2qcg3) - Product Hunt’s Rise
+ - [x] [Facebook Case Study](http://www.slideshare.net/misteroo/facebook-analysis-and-study/17-Facebook_is_offering_new_advertisingproducts) - Facebook Analysis and Study
+ - [x] [Twitter Case Study](http://www.thetwittercasestudy.com/the-case-study.html) - The Twitter Case Study from the Dimensions of Strategy Series
+ - [x] [Early Google Case Study](http://www.slideshare.net/ashwin_sharma/google-case-study) - Google Case Study
+ - [x] [Amazon Case Study](http://www.ecommerce-digest.com/amazon-case-study.html) - Amazon Case Study
+ - [x] [Apple iPod Case Study](http://www.ecommerce-digest.com/apple-ipod-case-study.html) - Apple Case Study
+ - [x] [Netflix Case Study](http://www.ecommerce-digest.com/netflix-case-study.html) - Netflix Case Study
 
  ### Sample Product Documentation
  - [ ] [How I would grow Thumbtack’s Customer Side of the Marketplace — Product Spec](https://medium.com/@ivanTr0n/how-i-would-grow-thumbtack-s-customer-side-of-the-marketplace-product-spec-edc5c0521d08#.o9octd4pa) - Sample Product Spec about Thumbtack
