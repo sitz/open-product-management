@@ -563,7 +563,7 @@ and deliver behavior-based engagement every step of the way.
 - [x] [Janna Bastow](https://twitter.com/simplybastow) - Co-Founder of MTP/CEO at ProdPad/CoFounder ProductTank and ProductCamp London
 - [x] [Martin Eriksson](https://twitter.com/bfgmartin) - Co-Founder at MTP/ProductTank
 - [x] [Simon Cast](https://twitter.com/simoncast) - Co Founder MTP/ProductTank/ProdPad
-- [ ] [Charunethran Panchalam Govindarajan](https://twitter.com/charupg) - Product Manager, Intel / Social Entrepreneur / Tech Enthusiast 
+- [x] [Charunethran Panchalam Govindarajan](https://twitter.com/charupg) - Product Manager, Intel / Social Entrepreneur / Tech Enthusiast 
 
 # Special Thanks
 - Special Thanks to [Paul Cothenet](http://attackwithnumbers.com) for providing the Base of Core 1: Product Management
