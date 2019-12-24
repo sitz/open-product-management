@@ -58,7 +58,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
     - [Career Prep The Interview](#career-prep-the-interview)
     - [Career Prep Where to Apply](#career-prep-where-to-apply)
     - [Career Prep Company Types](#career-prep-company-types)
-- [Best Product Managers on Twitter](#best-product-managers-on-twitter)
+- [Top Product Managers](#top-product-managers)
 - [Special Thanks](#special-thanks)
 - [Contributing to the list](#contributing-to-the-list)
 - [License](#license)
@@ -319,7 +319,8 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Don't Make Me Think: A Common Sense Approach to Web Usability, 2nd Edition](http://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) - Steve Krug
 - [ ] [About Face: The Essentials of Interaction Design, 4th Edition](https://www.amazon.com/About-Face-Essentials-Interaction-Design/dp/1118766571) - Alan Cooper, Robert Reimann, David Cronin, Christopher Noessel
 - [ ] [The Elements of User Experience: User-Centered Design for the Web and Beyond, 2nd Edition](https://www.amazon.com/Elements-User-Experience-User-Centered-Design/dp/0321683684) - Jesse James Garrett
-- [ ] [Designing Products People Love](http://shop.oreilly.com/product/0636920038917.do?cmp=tw-design-books-videos-product-promo_cmjy_dp&ref=producthunt) - How great designers create successful products. 
+- [ ] [Designing Products People Love](http://shop.oreilly.com/product/0636920038917.do?cmp=tw-design-books-videos-product-promo_cmjy_dp&ref=producthunt) - How great designers create successful products.
+- [ ] [Badass: Making Users Awesome](http://seriouspony.com/badass-users-the-book) - Kathy Sierra
  
 ### Startups
 - [ ] [The 4 steps to the Epiphany](http://www.amazon.com/Four-Steps-Epiphany-Steve-Blank/dp/0989200507) - Steve Blank
@@ -526,7 +527,10 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [PathtoProduct.com](https://www.pathtoproduct.com) - Discover over 1,000 product jobs at startups and tech companies  
 
 ## Career Prep: The Interview
- - [ ] [Cracking the PM Interview ](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - Book based on getting a PM career
+ - [ ] [Preparing for PM interviews: how to get there in 15–20 hours](https://medium.com/pminsider/preparing-for-pm-interviews-how-to-get-there-in-15-20-hours-193f6fcbf606) - Preparing for PM interviews
+- [ ] [How to Prepare for PM interviews](https://fernandodelgado.com/blog/how-to-prepare-for-product-management-interviews) - How to Prepare for PM interviews
+- [ ] [How to become a Product Manager (for college students)](https://fernandodelgado.com/blog/how-to-become-a-product-manager) - How to become a Product Manager (for college students)
+- [ ] [Cracking the PM Interview ](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - Book based on getting a PM career
  - [ ] [The Ultimate Guide to Product Manager Interview Questions](http://www.venturegrit.com/how-to-interview-a-product-manager-the-ultimate-guide/) - PM Questions to Practice
  - [ ] [The PM Interview](http://thepminterview.com) - Set of Questions + Timer to practice your PM skills.
  - [ ] [The Ultimate Guide to Product Manager Interview Questions](https://www.quora.com/What-are-frequently-asked-questions-in-product-manager-interviews) - Quora PM Questions
@@ -543,7 +547,7 @@ and deliver behavior-based engagement every step of the way.
  - [x] [Amazon](https://www.quora.com/Amazon-company/What-is-Amazons-approach-to-product-development-and-product-management) - Amazon's culture
  - [x] [Facebook](https://www.quora.com/What-does-a-Product-Manager-at-Facebook-do) - Facebook PM Culture
 
-# Best Product Managers on Twitter
+# Top Product Managers
 - [x] [Ken Norton](https://twitter.com/kennethn) - Partner @GVTeam. Formerly PM @Google.
 - [x] [Josh Elman](https://twitter.com/joshelman) - Partner, @GreylockVC: @Medium, @Jelly, @AppMeerkat, @Operator, @discordapp @Nextdoor.
 - [x] [Hunter Walk](https://twitter.com/hunterwalk) - @homebrew, Seed Stage Venture Fund w @satyap. Made products at YouTube, Google & SecondLife.
@@ -551,6 +555,7 @@ and deliver behavior-based engagement every step of the way.
 - [x] [Marty Cagan](https://twitter.com/cagan) - I'm a partner at Silicon Valley Product Group, specializing in product teams and product strategy
 - [x] [Ellen Chisa](https://twitter.com/ellenchisa) - VP Product for http://lolatravel.com , temporary @harvardhbs dropout.
 - [x] [Jackie Bavaro](https://twitter.com/jackiebo) - Asana Product Manager. Co-Author of Cracking the PM Interview. Previously @ Google & Microsoft
+- [x] [Fernando Delgado](https://www.linkedin.com/in/fernandodelgado/) - Sr. Product Manager at Google. Previously worked as an Entrepreneur, Product Management Coach, and Sr Director of Product Management at Yahoo.
 - [x] [Julie Zhuo](https://twitter.com/joulee) - Product design VP @ Facebook.
 - [x] [Joel Spolsky](https://twitter.com/spolsky) - CEO of Stack Overflow, co-founder of Fog Creek Software (FogBugz, Kiln), and creator of Trello.
 - [x] [Bruce McCarthy](https://twitter.com/d8a_driven) - Innovator, consultant, coach, and evangelist for better products and product development
