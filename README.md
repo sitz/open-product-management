@@ -114,7 +114,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [x] [How do Customer Development and Product Management fit together](http://www.cindyalvarez.com/lean/how-do-customer-development-and-product-management-fit-together-2014) - Cindy Alvarez
 - [x] [How to structure and get the most out of customer development interviews](http://jasonevanish.com/2012/01/18/how-to-structure-and-get-the-most-out-of-customer-development-interviews/) - Jason Evanish
 - [x] [The customer is always right. Except when they aren’t](http://wadefoster.net/post/57403834478/the-customer-is-always-right-except-when-they-arent) - Wade Foster
-- [x] (invalid link) Your MVP is about discovery not product (http://kevindewalt.com/2013/07/14/your-mvp-is-about-discovery-not-product/) - Kevin Dewalt
+- [x] [Your MVP is about discovery not product](http://web.archive.org/web/20170112085359/http://kevindewalt.com/2013/07/14/your-mvp-is-about-discovery-not-product/) - Kevin Dewalt
 
 ## All About Those Requirements
 - [x] [Painless functional specifications](http://www.joelonsoftware.com/articles/fog0000000036.html) - Joel Spolsky
@@ -226,8 +226,8 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [ ] [Software Product Management Stack](http://softwareproductmanagement.co/) - A curated list of Product Manager articles and resources
 - [ ] [End-End Product Management Lifecycle](http://attackwithnumbers.com/i-love-product-management) - A list of articles from what is it to becoming a great Product Manager
 - [ ] (invalid link) The One-Stop Product Management Guide (http://www.digitalfriday.co/productmanagementguide/) - A framework and list of articles to help product managers build, grow and manage digital products
-- [ ] [Harvard Business School PM 101](https://sites.google.com/site/hbspm101/home) - Online resource reposotiory from Harvard Business School PM 101 course (old site)
-- [ ] [Harvard Business School PM 101/102](https://www.hbspm101.com/) - Online resource reposotiory from Harvard Business School Product Management 101 & 102 (PM 101/102). 
+- [ ] [Harvard Business School PM 101](https://sites.google.com/site/hbspm101/home) - Online resource repository from Harvard Business School PM 101 course (old site)
+- [ ] [Harvard Business School PM 101/102](https://www.hbspm101.com/) - Online resource repository from Harvard Business School Product Management 101 & 102 (PM 101/102). 
 - [ ] [Product Management Processes](https://www.productprocesses.co) - A knowledge base of product management processes, tools and templates.
 
 ## Design
@@ -354,7 +354,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Product Leadership: How Top Product Managers Launch Awesome Products and Build Successful Teams](https://www.amazon.ca/dp/1491960604) -  Richard Banfield, Martin Eriksson, and Nate Walkingshaw
 - [ ] [Lovability: How to Build a Business That People Love and Be Happy Doing It](https://amazon.com/Lovability-Build-Business-People-Happy-ebook/dp/B06XJ9RGNY/) - Brian de Haaff
 - [ ] [JavaScript and JQuery](https://www.amazon.com/JavaScript-JQuery-Interactive-Front-End-Development/dp/1118531647/ref=as_li_ss_tl?ie=UTF8&qid=1443455024&sr=8-1&keywords=javascript&linkCode=sl1&tag=amazonbook10-20&linkId=e2058acefb720ac58495e18a0567a33b) - Interactive front-end web development book
-- [ ] [The Go Programming Language](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440) - The authoritative resource for leaning Go
+- [ ] [The Go Programming Language](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440) - The authoritative resource for learning Go
  
 ### Leadership
 - [ ] [How To Measure Anything](http://www.amazon.com/How-Measure-Anything-Intangibles-Business/dp/1118539273) - Douglas W. Hubbard
@@ -377,6 +377,7 @@ and deliver behavior-based engagement every step of the way.
 ## Newsletters
 - [ ] [Pivot Product Hits](https://pivotservices.curated.co/) - A weekly email newsletter of the best Product Management content 
 - [ ] [Weekly Thoughts of Tim Herbig](https://herbigt.com/newsletter/) - A weekly digest of personal advice for product people and interesting articles around product, ux and entrepreneurship
+- [ ] [Austin Voice of Product](https://austinvop.com) - Product newsletter making the Austin product community stronger
  
 ## Podcasts
 - [ ] [Design Details Podcast](https://www.producthunt.com/r/f0a61978d9/12920) - A show about the people who design our favorite products.
@@ -391,7 +392,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Yours Productly - Shardul Mehta, VP Products at Diamond Mind](http://yoursproductly.com/shardulmehta/) - Shardul Mehta on Product Canvas, Why Products Fail, His Upcoming Book and a Lot More
 - [ ] [Products That Count - By Sophie-Charlotte Moatti](https://itunes.apple.com/us/podcast/products-that-count-podcast/id1038890550?mt=2) - A podcast for product makers, data-minded thinkers and innovators. 
 - [ ] [This is Product Management - By AlphaUX](https://www.thisisproductmanagement.com/) - The podcast for product teams.
-- [ ] [Agile Uprising Podcast](http://podcast.agileuprising.com/) - They cover all topics asociated with Agile. From the Manifesto, to the frameworks, to the values and principles.
+- [ ] [Agile Uprising Podcast](http://podcast.agileuprising.com/) - They cover all topics associated with Agile. From the Manifesto, to the frameworks, to the values and principles.
 - [ ] [mindtheproduct.com Podcasts](https://www.mindtheproduct.com/tag/podcast/) - Podcasts by mindtheproduct.com
 - [ ] [Masters of Scale with Reid Hoffman](https://podcasts.apple.com/us/podcast/masters-of-scale-with-reid-hoffman/id1227971746?mt=2) - How do companies grow from zero to a gazillion? Legendary Silicon Valley investor / entrepreneur Reid Hoffman tests his theories with famous founders.
 
@@ -403,7 +404,7 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Product Management Coursea](https://www.coursera.org/specializations/product-management) - Become an effective Software Product Manager by mastering Agile software development practices to confidently interact with clients and manage a development team.
 - [ ] [Product Management Course Brainstation - Toronto](https://github.com/intuit/AnimationEngine) - TRANSFORM YOUR IDEA INTO A PRODUCT.
 - [ ] [Product School - USA](http://www.productschool.com) - Get a Product Manager Job
-- [ ] [Product Managment - General Assembly](https://generalassemb.ly/education/product-management) - 10-WEEK PART-TIME COURSE
+- [ ] [Product Management - General Assembly](https://generalassemb.ly/education/product-management) - 10-WEEK PART-TIME COURSE
 - [ ] [How to build a product roadmap everyone understands - Free e-Course](https://get.prodpad.com/theme-based-roadmap-course/) - How to build a roadmap
 - [ ] [Building a Pre-Launch Marketing Strategy for Beginners](https://www.udemy.com/building-a-pre-launch-marketing-strategy-for-beginners/) - Build your own Pre-launch Marketing Strategy for your company rollout or feature
 - [ ] [Idea To Revenue Masterclass](http://productmanageracademy.teachable.com/courses/ideatorevenuemasterclass) - Become a Strategic Product Leader: Validate Ideas, Launch Great Products, Deliver Business Results.
