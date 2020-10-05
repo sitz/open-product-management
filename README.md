@@ -79,6 +79,7 @@ Open-Product-Management is an amazing list for people who need a refresher in Pr
 - [x] [Use your Product Powers for Good](http://www.productpowers.com/blog/use-your-product-powers-for-good.html) - Bruce McCarthy
 - [ ] [Product Management: An introduction for undergraduates and graduates](https://product.careers/presentation/) - Thor Mitchell (Student presentation)
 - [ ] [What It Takes to Become a Great Product Manager](http://hbr.org/2017/12/what-it-takes-to-become-a-great-product-manager) - Julia Austin
+- [ ] [A Day in the Life of a Product Manager: Consumer and Enterprise](https://blog.tryexponent.com/day-in-life-pm/) - Kevin Wei
 
 ## Is It Really For You?
 - [x] [How to hire a Product Manager?](https://www.kennethnorton.com/essays/productmanager.html) - Kenneth Norton
@@ -410,7 +411,9 @@ and deliver behavior-based engagement every step of the way.
 - [ ] [Idea To Revenue Masterclass](http://productmanageracademy.teachable.com/courses/ideatorevenuemasterclass) - Become a Strategic Product Leader: Validate Ideas, Launch Great Products, Deliver Business Results.
 - [ ] [Coursera - Software Product Management](https://www.coursera.org/specializations/product-management) - Create Better Software using Agile Practices. Master Agile development and effective interactions to drive the making of great software products (Capstone Project)
 - [ ] [Pragmatic Marketing Courses](https://www.pragmaticmarketing.com/courses) - Product Management and Marketing Training
-- [ ] [Cursos PM3 (Portuguese Only)](https://www.cursospm3.com.br) - The first course 100% in Portuguese about Product Management. It was made by product professionals and the course covers from the basics until the most advanced topics with +40 hours of content.
+- [ ] [Product Management - Cursos PM3 (Portuguese Only)](https://www.cursospm3.com.br/curso-product-manager) - This was the first course 100% online in Portuguese about Product Management. It was made by product professionals and the course covers from the basics until the most advanced topics with +40 hours of content.
+- [ ] [Product Discovery - Cursos PM3 (Portuguese Only)](https://www.cursospm3.com.br/curso-de-product-discovery) - This course teaches how to discover valuable solutions for the users. The most current Product Discovery techniques, applied in practice, by the renowned Design and Product professionals from the Brazilian market.
+- [ ] [Product Growth - Cursos PM3 (Portuguese Only)](https://www.cursospm3.com.br/curso-product-growth) - This course teaches how to lead company's growth. The most current Product Growth techniques, applied in practice, by the best Marketing, Growth and Product professionals in the Brazilian market.
 - [ ] [Product Management Weekly Tips](https://www.linkedin.com/learning/product-management-weekly-tips/welcome) - Free Product Management Weekly Tip Videos From Linkedin Learning
   - [ ] [AI Product Manager](https://eu.udacity.com/course/ai-product-manager-nanodegree--nd088) - Learn to develop AI products that deliver business value. Build skills that help you compete in the new AI-powered world.
 - [ ] [Digital Product Management: Modern Fundamentals](https://www.coursera.org/learn/uva-darden-digital-product-management) - This course is ideal for current product or general  managers interested in today's modern product management methods.
@@ -469,6 +472,7 @@ and deliver behavior-based engagement every step of the way.
 
 ## Communities to Join
 ### Groups
+- [ ] [Product Led Institute](https://summit.productled.com/?ac=9Vdhr2PIm) - Product-Led Growth is a go-to-market strategy that relies on using your product as the main vehicle to acquire, activate, and retain customers
 - [x] [Mind the Product](http://www.mindtheproduct.com) - Mind the Product Community Website and Blog
 - [x] [Product School](http://www.productschool.com) - Product School Company Website
 - [x] [Designer Chat](https://www.producthunt.com/r/85601ad255/3697) - The Designer News community in a private Slack chat.
@@ -507,14 +511,16 @@ and deliver behavior-based engagement every step of the way.
 
 ### Conferences
 - [ ] [Mind the Product Conference](http://mtpcon.com/sf/) - The Conference for Passionate Product People
-- [ ] [Industry - Product Conference](http://indsum.com) - For people who build, launch and scale world-class product.
+- [ ] [Industry - Product Conference](https://www.industryconference.com/virtual#pricing) - For people who build, launch and scale world-class product.
 - [ ] [Lean Startup Week](http://leanstartup.co/2016-conference/) - Lean Startup Week is a seven-day immersion into Lean Startup methodology led by star practitioners in big companies and hot startups from around the world.
-- [ ] [Enterprise UX 2016](http://2016.enterpriseux.net) - The Enterprise UX 2016 conference is dedicated to delivering useful, delightful, and humane experiences to people who work for and in enterprises.
-- [ ] [Product Camp Brasil](http://www.productcamp.com.br) - The event is now the largest on Product Management in Latin America, where Brazilian and international speakers share their learnings about Product, UX and Growth with the participants.
+- [ ] [Product Camp Brazil](http://www.productcamp.com.br) - The event is now the largest on Product Management in Latin America, where Brazilian and international speakers share their learnings about Product, UX and Growth with the participants.
+- [ ] [Product Stars Brazil](http://www.productstars.com.br) - The event gather a constellation of experienced people to share experiences and hacks from day to day.
+- [ ] [Growth Camp Brazil](http://www.growthcamp.com.br) - The event is made by specialists for specialists who already operate in the market and have big interactions with Product Managers. In addition they always bring international keynotes.
 
 # Core 4: Get the Job
 ## Hiring a Product Manager Tips/Tricks
 - [x] [Inspire Me with your Job Description](https://medium.com/@mstephan/inspire-with-your-job-description-ecb5ce744cfc#.gjzd3n4ez) - Writing a job description that attracts inspired product managers from Mark Stephan
+- [ ] [Find, Vet and Close the Best Product Managers](https://firstround.com/review/find-vet-and-close-the-best-product-managers-heres-how/) - How to find, Vet and Close the Best Product Managers by Todd Jackson, VP of Product and Design at Dropbox
 
 ## Career Prep:Resume
 - [x] [How do you write a good resume for product manager jobs?](https://www.quora.com/How-do-you-write-a-good-resume-for-product-manager-jobs) - Sample Advice on Quora
@@ -531,22 +537,27 @@ and deliver behavior-based engagement every step of the way.
  - [ ] [Preparing for PM interviews: how to get there in 15–20 hours](https://medium.com/pminsider/preparing-for-pm-interviews-how-to-get-there-in-15-20-hours-193f6fcbf606) - Preparing for PM interviews
 - [ ] [How to Prepare for PM interviews](https://fernandodelgado.com/blog/how-to-prepare-for-product-management-interviews) - How to Prepare for PM interviews
 - [ ] [How to become a Product Manager (for college students)](https://fernandodelgado.com/blog/how-to-become-a-product-manager) - How to become a Product Manager (for college students)
+<<<<<<< HEAD
 - [ ] [Cracking the PM Interview ](http://www.amazon.com/gp/product/0984782818/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0984782818&linkCode=as2&tag=httpstwit071f-20) - Book based on getting a PM career
- - [ ] [The Ultimate Guide to Product Manager Interview Questions](http://www.venturegrit.com/how-to-interview-a-product-manager-the-ultimate-guide/) - PM Questions to Practice
- - [ ] [The PM Interview](http://thepminterview.com) - Set of Questions + Timer to practice your PM skills.
- - [ ] [The Ultimate Guide to Product Manager Interview Questions](https://www.quora.com/What-are-frequently-asked-questions-in-product-manager-interviews) - Quora PM Questions
- - [x] [4 Questions I Always Ask When Interviewing Product Managers](http://www.producttalk.org/2012/06/4-questions-i-always-ask-when-interviewing-product-managers/) - 4 Questions to ask a PM
- - [ ] [Product School](http://www.productschool.com) - Product School 2-month Education
- - [ ] [Interview Question Prep for PM Interviews](https://docs.google.com/document/d/1ZXwg8LFLEi-HmN9BoCoifqEM1NggxNjex4Tx-5ALa9I/edit) - Prep Questions from Rafi Lurie, APM at Uber.
- - [x] [How To Get A PM Job With The Yammer Mafia - In-person](https://medium.com/product-man/how-to-get-a-pm-job-with-the-yammer-mafia-ec2c43c775fb#.viuymdset) - How to Join The Yammer PM Mafia
- - [x] [The Best Student Activity for Product Managers By Jackie Bavaro](https://pmblog.quora.com/The-Best-Student-Activity-for-Product-Managers) - The Best Student Activity for Product Managers
- - [x] [Acing the Product Management Interview](https://www.linkedin.com/pulse/20141020034027-1533734-acing-the-product-management-interview?trk=hp-feed-article-title-like) - Allan Hui
+- [ ] [The Ultimate Guide to Product Manager Interview Questions](http://www.venturegrit.com/how-to-interview-a-product-manager-the-ultimate-guide/) - PM Questions to Practice
+- [ ] [The PM Interview](http://thepminterview.com) - Set of Questions + Timer to practice your PM skills.
+- [ ] [The Ultimate Guide to Product Manager Interview Questions](https://www.quora.com/What-are-frequently-asked-questions-in-product-manager-interviews) - Quora PM Questions
+- [x] [4 Questions I Always Ask When Interviewing Product Managers](http://www.producttalk.org/2012/06/4-questions-i-always-ask-when-interviewing-product-managers/) - 4 Questions to ask a PM
+- [ ] [Product School](http://www.productschool.com) - Product School 2-month Education
+- [ ] [Interview Question Prep for PM Interviews](https://docs.google.com/document/d/1ZXwg8LFLEi-HmN9BoCoifqEM1NggxNjex4Tx-5ALa9I/edit) - Prep Questions from Rafi Lurie, APM at Uber.
+- [x] [How To Get A PM Job With The Yammer Mafia - In-person](https://medium.com/product-man/how-to-get-a-pm-job-with-the-yammer-mafia-ec2c43c775fb#.viuymdset) - How to Join The Yammer PM Mafia
+- [x] [The Best Student Activity for Product Managers By Jackie Bavaro](https://pmblog.quora.com/The-Best-Student-Activity-for-Product-Managers) - The Best Student Activity for Product Managers
+- [x] [Acing the Product Management Interview](https://www.linkedin.com/pulse/20141020034027-1533734-acing-the-product-management-interview?trk=hp-feed-article-title-like) - Allan Hui
+- [ ] [7 Steps: Interview Strategy to Get into Product Management With No Experience](https://www.linkedin.com/pulse/what-your-product-management-interview-strategy-7-steps-mohammad) - Afroz Mohammad
+- [ ] [Product Management Job Interview Exercises](https://productmanagementexercises.com/) - Free repository of PM job interview questions and answers 
+- [ ] [Exponent](http://www.tryexponent.com) - Exponent offers online courses, a free interview questions database, and a Slack community for mock interviews.
 
  ## Career Prep:Company Types
- - [x] [Google by Larry page and Sergey Brin](http://www.google.com/about/company/philosophy/) - Google's culture
- - [x] [Microsoft](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - Microsoft PM Culture
- - [x] [Amazon](https://www.quora.com/Amazon-company/What-is-Amazons-approach-to-product-development-and-product-management) - Amazon's culture
- - [x] [Facebook](https://www.quora.com/What-does-a-Product-Manager-at-Facebook-do) - Facebook PM Culture
+- [x] [Google by Larry page and Sergey Brin](http://www.google.com/about/company/philosophy/) - Google's culture
+- [x] [Microsoft](https://blogs.msdn.microsoft.com/techtalk/2005/12/16/pm-at-microsoft/) - Microsoft PM Culture
+- [x] [Amazon](https://www.quora.com/Amazon-company/What-is-Amazons-approach-to-product-development-and-product-management) - Amazon's culture
+- [x] [Facebook](https://www.quora.com/What-does-a-Product-Manager-at-Facebook-do) - Facebook PM Culture
+- [ ] [The Ultimate Google APM Interview Guide](https://www.tryexponent.com/guides/google/apm-interview) - This guide explains each stage of the Google APM interview and has practice interview questions that were asked at Google
 
 # Top Product Managers
 - [x] [Ken Norton](https://twitter.com/kennethn) - Partner @GVTeam. Formerly PM @Google.
